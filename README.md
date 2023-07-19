@@ -1,3 +1,4 @@
 # SinTerrible-Journal
-<p>Website about my life and life in general</p>
-<p><h1>WARNING:</h1> Lots of Clickbait inside. Explore buttons at your own risk.</p>
+<p>YNoCode is a site that allows beginner HTML coders learn the basics of this amazing coding language. 
+  It covers topics such as setting up the code, add headings, add horizontal lines, insert pictures and hyperlinks, and much more!</p>
+<p><h1>This is a site created by SinTerrible.</h1></p>
